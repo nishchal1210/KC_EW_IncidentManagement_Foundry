@@ -1,0 +1,108 @@
+INC9778682	issue connecting to spark plug	28-Apr-2026 23:58:37	3 - Moderate	Awaiting Validation	Muhammad Amarna	30-Apr-2026 14:03:33		Venkata Siva Reddy Koppula	30-Apr-2026 23:29:19	Hadera Plant			MFG-MES-TML		TRUE			"30-Apr-2026 14:03:33 - Pranavkumar Jagdishbhai Bhagat (Additional comments)
+Requested user to check via regular user instead of bm_operator_1
+
+30-Apr-2026 11:38:01 - Mayur Rajendra Bagul (Additional comments)
+Hi Muhammad,
+
+Can you please share nonuser account for this site?
+
+30-Apr-2026 09:53:17 - Rabial SK (Additional comments)
+p3
+
+29-Apr-2026 10:42:37 - Dnyaneshwari Satish (Additional comments)
+from when you are facing this issue , is any password change happen 
+
+"	Not Yet Requested			SDO,TML				0					Software					Kimberly-Clark	Thingworx	English	Chat					SensipleTeamsProd	Go to the Related Links section below to view the current on-call rotation.			"Is it an issue or request: Issue 
+Issue Description (in detail):Thingworx login fail (ilhca015)
+Affected Application/Service:Thingworx
+URL/Error-message/Screenshot for the issue: attached 
+No of users impacted: Multiple 
+Business impact:it's critical to fix this as soon as possible. If this product is not reported today, the end-of-month balance will show a stock shortage, which is unacceptable.
+Today is the last day of the month and it is impacting Israel  business 
+Priority requested(P1/P2/P3): p3
+Priority requested by (user-name): Barnard, Herman
+Contact number/email-id of user-contact: Please refer the attached email 
+Impacted Location:Israel"	global		0	INC9778682	Normal					1			3 - Low	EM, IFP, IPC, NA	FALSE	FALSE	29-Apr-2026 00:23:33			0	TRUE	Do not notify	28-Apr-2026 23:58:37	Muhammad Amarna	Deepak Kumar Singh	-- Not Defined --			Service Desk										1		0					3 - Low		Awaiting Validation	Error		Incident	FALSE	0		FALSE		R74090	23	Proceed to Next Task	Cancel all future Tasks	1 - High						"30-Apr-2026 12:57:02 - Mayur Rajendra Bagul (Work notes)
+Non user account and password need to be check. it might have expired or locked. currently we dont have these essential details which is required to proceed further. for now with temporary solution user is able to access the system.
+
+30-Apr-2026 09:57:36 - Rabial SK (Work notes)
+Is it an issue or request: Issue 
+Issue Description (in detail):Thingworx login fail (ilhca015)
+Affected Application/Service:Thingworx
+URL/Error-message/Screenshot for the issue: attached 
+No of users impacted: Multiple 
+Business impact:it's critical to fix this as soon as possible. If this product is not reported today, the end-of-month balance will show a stock shortage, which is unacceptable.
+Today is the last day of the month and it is impacting Israel  business 
+Priority requested(P1/P2/P3): p3
+Priority requested by (user-name): Barnard, Herman
+Contact number/email-id of user-contact: Please refer the attached email 
+Impacted Location:Israel
+
+
+30-Apr-2026 09:53:17 - Rabial SK (Work notes)
+Business impact: it's critical to fix this as soon as possible. If this product is not reported today, the end-of-month balance will show a stock shortage, which is unacceptable.
+Today is the last day of the month.
+
+29-Apr-2026 00:23:33 - Deepak Kumar Singh (Work notes)
+Is it an issue or request:  Issue
+Issue Description (in detail): fail to insert column
+Affected Application/Service: Historian
+URL/Error-message/Screenshot for the issue: Attached
+No of users impacted & business impact: 1
+Recurring issue (if yes, mention ticket#):NO
+Preferred time & mode of contact: Teams
+Steps performed by Desk:
+Muhammad came through chat and said he is facing issue connecting to spark plug
+He said it fails to insert column and shared screenshots which also showed Historian screen
+Asked if it is related to PASS or provide more info and got no response
+Hence assigned the ticket to MFG MES TML Team for further investigation
+Knowledge article:
+
+[code]<a title=""How To: Handle MES/SMOM/PASS Production Issues (The Desk)"" href='kb_view.do?sys_kb_id=400c3cc9db644894b0b11cb51b9619fd' >KB0015675 : How To: Handle MES/SMOM/PASS Production Issues (The Desk)</a>[/code]
+
+29-Apr-2026 00:13:14 - Sensiple Chat Service Integration (Work notes)
+The user initiated a chat in Hebrew about a spark plug connection issue. An agent assisted, requested details, and assigned a ticket before concluding the session.
+
+
+Muhammad Amarna [04/28/2026 23:45:27]: Hello
+TheDeskLive [04/28/2026 23:45:27]: Welcome to The Desk! To continue, please select the language of your preference.
+TheDeskLive [04/28/2026 23:45:27]: Please provide valid queue input to serve you better 
+ 1.English 
+ 2.Spanish 
+ 3.Portuguese 
+ 4.Hebrew (Translation Support) 
+ 5.Russian (Translation Support) 
+ 6.Mandarin (Translation Support) 
+ 7.Czech (Translation support) 
+ 8.French (Translation support) 
+ 9.German (Translation support) 
+ 10.Italian (Translation support) 
+ 11.Polish (Translation support)
+Muhammad Amarna [04/28/2026 23:48:05]: Hebrew (Translation Support)
+TheDeskLive [04/28/2026 23:48:07]: Please wait while we connect you to The DESK agent.
+TheDeskLive [04/28/2026 23:48:08]: Your position in the queue is: '1'. Thank you for your patience.
+TheDeskLive [04/28/2026 23:48:48]: You are now online with 'Deepak Kumar Singh'
+TheDeskLive [04/28/2026 23:48:49]: 'Muhammad Amarna', I want to let you know that 'Deepak Kumar Singh' has connected with you that his native language is not 'English' but I will use machine translation to help both of you communicate effectively. We ask your forgiveness for the errors in grammatically inconsistent words and for the contextual difference, if at all. Appreciate your understanding of this topic.
+Deepak Kumar Singh [04/28/2026 23:49:38]: Good Day
+Deepak Kumar Singh [04/28/2026 23:49:38]: Hi Muhammad
+Deepak Kumar Singh [04/28/2026 23:49:38]: How can I help you today?
+Muhammad Amarna [04/28/2026 23:49:41]: I have a problem connecting to the spark plug
+Deepak Kumar Singh [04/28/2026 23:50:49]: please tell us more about it 
+ Is it a site/ app? 
+ Were you able to log in before? 
+ Error screenshot please? 
+ are you using a KC laptop?
+Muhammad Amarna [04/28/2026 23:53:32]: Fails to insert last column
+Deepak Kumar Singh [04/28/2026 23:54:04]: Is it related to PASS System?
+Deepak Kumar Singh [04/28/2026 23:55:46]: ?
+Muhammad Amarna [04/28/2026 23:58:14]: [File attachment (attachment-03c96ef6-f5dd-472b-b9a6-9fc44a3de72e-134219122942733328-3.png) from customer]Download
+Muhammad Amarna [04/28/2026 23:59:38]: [File attachment (attachment-03c96ef6-f5dd-472b-b9a6-9fc44a3de72e-134219123775010250-4.png) from customer]Download
+Deepak Kumar Singh [04/29/2026 00:02:21]: I have assigned a ticket to the MFG MES Team
+Deepak Kumar Singh [04/29/2026 00:02:30]: INC9778682
+Deepak Kumar Singh [04/29/2026 00:02:41]: Is there anything else I may assist you with?
+TheDeskLive [04/29/2026 00:09:38]: You didn't provide any input. Do you want to continue the chat session?
+Deepak Kumar Singh [04/29/2026 00:12:30]: //endchat
+TheDeskLive [04/29/2026 00:12:31]: This chat session has ended. Don't type anything below this line unless you want to initiate a chat with the desk again.
+
+
+"			

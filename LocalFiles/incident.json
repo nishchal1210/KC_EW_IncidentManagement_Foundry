@@ -1,0 +1,9 @@
+{
+  "incident_number": "INC123",
+  "timestamp": "2026-06-30 10:00:00",
+  "hw_system": "Router1",
+  "sw_system": "SAP",
+  "issue": "SAP login failing",
+  "source": "Email",
+  "severity": "3 - Low"
+}

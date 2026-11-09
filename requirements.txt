@@ -1,0 +1,9 @@
+mcp
+openai
+psycopg2-binary
+python-dotenv
+azure-ai-projects
+azure-identity
+azure-search-documents
+pandas
+streamlit>=1.40
